@@ -1,0 +1,131 @@
+{
+    "countries": [
+    {   
+        "id": 1,
+        "country": "Brasil",
+        "cities": [
+            {
+                "id": 1,
+                "paisId": 1,
+                "city": "São Paulo",
+                "latitude": -23.54,
+                "longitude": -46.64
+            },
+            {
+                "id": 2,
+                "paisId": 1,
+                "city": "Gramado",
+                "latitude": -29.36,
+                "longitude": -50.87
+            },
+            {
+                "id": 3,
+                "paisId": 1,
+                "city": "Cuiabá",
+                "latitude": -15.59,
+                "longitude": -56.09
+            },
+            {
+                "id": 4,
+                "paisId": 1,
+                "city": "Recife",
+                "latitude": -8.05,
+                "longitude": -34.88
+            },
+            {
+                "id": 5,
+                "paisId": 1,
+                "city": "Manaus",
+                "latitude": -3.10,
+                "longitude": -60.02
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "country": "Canadá",
+        "cities": [
+            {
+                "id": 1,
+                "paisId": 2,
+                "city": "Montreal",
+                "latitude": 45.51,
+                "longitude": -73.65
+            },
+            {
+                "id": 2,
+                "paisId": 2,
+                "city": "Ottawa",
+                "latitude": 45.42,
+                "longitude": -75.69
+            },
+            {
+                "id": 3,
+                "paisId": 2,
+                "city": "Vancouver",
+                "latitude": 49.30,
+                "longitude": -123.10
+            }
+        ]
+    },
+    {   
+        "id": 3,
+        "country": "Egito",
+        "cities": [
+            {
+                "id": 1,
+                "paisId": 3,
+                "city": "Cairo",
+                "latitude": 30.04,
+                "longitude":  31.24
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "country": "Bélgica",
+        "cities": [
+            {
+                "id": 1,
+                "paisId": 4,
+                "city": "Bruxelas",
+                "latitude": 50.83,
+                "longitude": 4.35
+            },
+            {
+                "id": 2,
+                "paisId": 4,
+                "city": "Bruges",
+                "latitude": 51.2,
+                "longitude": 3.21
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "country": "Japão",
+        "cities": [
+            {
+                "id": 1,
+                "paisId": 5,
+                "city": "Tóquio",
+                "latitude": 35.68,
+                "longitude": 139.69
+            },
+            {
+                "id": 2,
+                "paisId": 5,
+                "city": "Quioto",
+                "latitude": 35.01,
+                "longitude": 135.76
+            },
+            {
+                "id": 3,
+                "paisId": 5,
+                "city": "Osaka",
+                "latitude": 34.69,
+                "longitude": 135.50
+            }
+        ]
+    }
+]}
